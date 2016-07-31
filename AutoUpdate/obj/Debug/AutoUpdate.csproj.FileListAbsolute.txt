@@ -1,0 +1,6 @@
+D:\Codeing\C#\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+D:\Codeing\C#\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.exe
+D:\Codeing\C#\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\Codeing\C#\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csprojResolveAssemblyReference.cache
+D:\Codeing\C#\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.exe
+D:\Codeing\C#\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
